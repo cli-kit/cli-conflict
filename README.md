@@ -8,12 +8,12 @@ Table of Contents
 Conflict
 ========
 
-Middleware execution for the [command](https://github.com/freeformsystems/cli-command) module, a component of the [toolkit](https://github.com/freeformsystems/cli-toolkit).
+Property conflict utility for the [command](https://github.com/freeformsystems/cli-command) module, a component of the [toolkit](https://github.com/freeformsystems/cli-toolkit).
 
 ## Install
 
 ```
-npm i cli-middleware
+npm i cli-conflict
 ```
 
 ## License

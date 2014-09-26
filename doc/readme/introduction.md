@@ -1,1 +1,1 @@
-Middleware execution for the [command][] module, a component of the [toolkit][].
+Property conflict utility for the [command][] module, a component of the [toolkit][].
