@@ -1,6 +1,6 @@
 {
   "name": "cli-conflict",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utility for property conflicts",
   "author": "muji <noop@xpm.io>",
   "repository": {
